@@ -1,1 +1,0 @@
-In this repo i commit my daily basis codes.
